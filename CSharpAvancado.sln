@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurseEvento", "CurseEvento\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressaoLambda", "ExpressaoLambda\ExpressaoLambda.csproj", "{5AD93878-903E-4113-9099-0C2A868A0BEE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosExtensao", "MetodosExtensao\MetodosExtensao.csproj", "{EF32F9D0-72A3-4B8D-89C6-0A1F9BC09937}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LicaoLink", "LicaoLink\LicaoLink.csproj", "{43015FAE-6B40-4890-876B-0D59CB0C9B20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{5AD93878-903E-4113-9099-0C2A868A0BEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5AD93878-903E-4113-9099-0C2A868A0BEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5AD93878-903E-4113-9099-0C2A868A0BEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF32F9D0-72A3-4B8D-89C6-0A1F9BC09937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF32F9D0-72A3-4B8D-89C6-0A1F9BC09937}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF32F9D0-72A3-4B8D-89C6-0A1F9BC09937}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF32F9D0-72A3-4B8D-89C6-0A1F9BC09937}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43015FAE-6B40-4890-876B-0D59CB0C9B20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43015FAE-6B40-4890-876B-0D59CB0C9B20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43015FAE-6B40-4890-876B-0D59CB0C9B20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43015FAE-6B40-4890-876B-0D59CB0C9B20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
